@@ -133,6 +133,9 @@ main {
   .nav-link {
     transition: none;
   }
+  main {
+    margin: 0;
+  }
 }
 /* Large screens */
 @media (min-width: 600px) {
